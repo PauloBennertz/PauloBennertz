@@ -3,5 +3,5 @@
 - 🔭 Estou imerso no desenvolvimento de um **sistema de monitoramento de criptomoedas** e um **agente de IA dedicado a análises técnicas**, explorando a loucura so mercado de ativos digitais.
 - 🌱 Minha jornada de aprendizado atual se concentra em **Python**, **Inteligência Artificial** e, claro, **criptomoedas**.
 - 👯 Buscando oportunidades de colaboração em projetos inovadores onde eu possa contribuir e aprender.
-- 📫 Me encontre em: paulorbnu@outlook.com
+
 
